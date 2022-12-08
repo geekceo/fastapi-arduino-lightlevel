@@ -19,7 +19,7 @@ pip install fastapi uvicorn pyserial
 
 ##### Open the FastAPI folder from the terminal and start the web server
 
-```python
+```console
 uvicorn main:app --reload
 ```
 
