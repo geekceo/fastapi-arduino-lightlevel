@@ -1,6 +1,10 @@
 ![Build Status](https://elbag.net/wp-content/uploads//arduino-logo-1024x259.png)
 ![Build Status](https://geekflare.com/wp-content/uploads/2019/07/fast-api-logo.png)
 
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)&nbsp;
+![Arduino](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=arduino)
+
 ## Getting Started
 
 ##### Install the python libs
