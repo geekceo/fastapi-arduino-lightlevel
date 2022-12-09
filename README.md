@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)&nbsp;
-![Arduino](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)
 
 ## Getting Started
 
